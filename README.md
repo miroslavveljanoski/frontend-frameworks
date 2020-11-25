@@ -1,0 +1,94 @@
+# Frontend Frameworks
+
+## Contents
+
+- [Learning Objectives](#learning-objectives)
+- [Suggested Study](#suggested-study)
+- Break-Down
+  - [Week 1](#week-1)
+  - [Week 2](#week-2)
+- [Class Recordings](#class-recordings)
+- [study.hackyourfuture.be](https://study.hackyourfuture.be)
+- [home.hackyourfuture.be](https://home.hackyourfuture.be/)
+
+---
+
+## Learning Objectives
+
+What can you expect to learn in this module?
+
+[TOP](#frontend-frameworks)
+
+---
+
+## Suggested Study
+
+### Repos of Practice
+
+- [HYF Belgium](https://github.com/HackYourFutureBelgium/react) - tested exercises and small projects
+
+### Other HYFs to study
+
+- [Amsterdam](https://github.com/HackYourFuture/React)
+- [Copenhagen](https://github.com/HackYourFuture-CPH/React)
+- [London](https://syllabus.codeyourfuture.io/react/index/)
+
+[TOP](#frontend-frameworks)
+
+---
+
+## Week 1
+
+### Before Class
+
+### During Class
+
+#### Before Break
+
+#### After Break
+
+### After Class
+
+[TOP](#frontend-frameworks)
+
+---
+
+## Week 2
+
+### Before Class
+
+### During Class
+
+#### Before Break
+
+#### After Break
+
+### After Class
+
+[TOP](#frontend-frameworks)
+
+---
+
+## Class Recordings
+
+- **Students**: Here you can find recordings of this module from past classes. Enjoy!
+- **Coaches**: When sending your PR's with links please ...
+  - Indicate which class you were teaching
+  - Which week it was (if the module is more than 1 week)
+  - Give your name
+  - and a helpful description
+
+## Class 7 & 8
+
+> [Anthony](https://github.com/Toinne) and [Olivier](https://github.com/xurei)
+
+- Week 1
+  - [Part 1](https://vimeo.com/429603081)
+  - [Part 2](https://vimeo.com/429603310)
+- Week 2
+  - [Part 1](https://vimeo.com/431190348)
+  - [Break-out session 1](https://vimeo.com/431187975/c2bf7158dc)
+  - [Part 2](https://vimeo.com/431206655)
+- Week 3
+  - [Part 1](https://vimeo.com/433319666)
+  - [Part 2](https://vimeo.com/433339011)
