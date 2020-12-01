@@ -78,7 +78,7 @@ What can you expect to learn in this module?
   - Give your name
   - and a helpful description
 
-## Class 7 & 8
+## class-7-8
 
 > [Anthony](https://github.com/Toinne) and [Olivier](https://github.com/xurei)
 
@@ -92,3 +92,9 @@ What can you expect to learn in this module?
 - Week 3
   - [Part 1](https://vimeo.com/433319666)
   - [Part 2](https://vimeo.com/433339011)
+  
+## class-9-10
+
+> [Marielle](http://widged.com/portfolio/), [Kelley](https://klve.nl/), 
+
+- Week 1: [recording](https://vimeo.com/485106233), [katacoda](https://www.katacoda.com/widged/courses/hackyourfuture-react/1-components)
