@@ -25,6 +25,7 @@ What can you expect to learn in this module?
 
 ### Repos of Practice
 
+- [Katacodas by Marielle](https://www.katacoda.com/widged/courses/hackyourfuture-react/)
 - [HYF Belgium](https://github.com/HackYourFutureBelgium/react) - tested exercises and small projects
 
 ### Other HYFs to study
