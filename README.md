@@ -99,3 +99,9 @@ What can you expect to learn in this module?
 > [Marielle](http://widged.com/portfolio/), [Kelley](https://klve.nl/), 
 
 - Week 1: [recording](https://vimeo.com/485106233), [katacoda](https://www.katacoda.com/widged/courses/hackyourfuture-react/1-components)
+
+> Shriyans (HYF Amsterdam)
+
+- Week 2: [Part 1](https://vimeo.com/488111553)
+          [Part 2](https://vimeo.com/488114632)
+
