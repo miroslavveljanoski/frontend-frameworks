@@ -100,7 +100,7 @@ What can you expect to learn in this module?
 
 - Week 1: [recording](https://vimeo.com/485106233), [katacoda](https://www.katacoda.com/widged/courses/hackyourfuture-react/1-components)
 
-> Shriyans (HYF Amsterdam)
+> [Shriyans](https://github.com/shrynx) (HYF Amsterdam)
 
 - Week 2:
   - [Part 1](https://vimeo.com/488111553)
