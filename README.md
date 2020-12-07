@@ -102,6 +102,7 @@ What can you expect to learn in this module?
 
 > Shriyans (HYF Amsterdam)
 
-- Week 2: [Part 1](https://vimeo.com/488111553)
-          [Part 2](https://vimeo.com/488114632)
+- Week 2:
+  - [Part 1](https://vimeo.com/488111553)
+  - [Part 2](https://vimeo.com/488114632)
 
